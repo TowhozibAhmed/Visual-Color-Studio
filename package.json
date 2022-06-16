@@ -1,0 +1,21 @@
+{
+    "name": "Visual-Color-Studio",
+    "displayName": "VS code Visual Color Studio",
+    "description": "Comming soon....",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Visual Color Studio",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Visual Color Studio-color-theme.json"
+            }
+        ]
+    }
+}
